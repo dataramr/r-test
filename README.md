@@ -19,7 +19,7 @@ Use docker pull or Dockerfile to get Nifi image.
     
 ### Accessing Nifi WebUI
 Nifi uses port 8080 by default. The container exposes 8080 so with the "-P" option you should be able to use the mapped port.
-* URL syntax: http://<host>:<port>/nifi
+* URL syntax: http://host:port/nifi
 
 
 
