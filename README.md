@@ -32,6 +32,7 @@ First repo to test and practise github and git
 Test 
 * One
 * Two
+* Three
 
 - One
 - Two
